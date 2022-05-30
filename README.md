@@ -9,3 +9,4 @@ First things first, it is crucial that we have a basic understanding of what cur
 * This video has a great explanation of the [Topoisomerase Enzyme](https://www.youtube.com/watch?v=k4fbPUGKurI) which is very important in our simulation of DNA Separation
 * These two videos show incredible and fascinating simulations that have already been created for DNA replication and other processes in the cell. [Drew Barry Ted Talk](https://www.youtube.com/watch?v=WFCvkkDSfIU) and [Animations Video](https://www.youtube.com/watch?v=7Hk9jct2ozY).
 * This Wikipedia article explains the [structure of the nucleoid](https://en.wikipedia.org/wiki/Nucleoid) and chromosomes in a prokaryotic cell and will be helpful in understanding the organization of DNA prior to replication. 
+* Another good video on [Prokaryotic Nucleoids](https://www.youtube.com/watch?v=0hlMHSoQQNA) explains the way that DNA is organized.
