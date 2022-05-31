@@ -20,7 +20,7 @@ DNA utilizes supercoiling to pack the immense length of its strands into a micro
 * This video explains the idea of [DNA supercoiling](https://www.youtube.com/watch?v=5hwaDamU-jo)
 * This video has a great explanation of the [Topoisomerase Enzyme](https://www.youtube.com/watch?v=k4fbPUGKurI) which is very important in our simulation of DNA Separation
 
-# DNA Structure
+## DNA Structure
 The nucleoid structure employed by bacteria is suprisingly complex, and uses multiple layers as well as differening topological regions to organize the chromosome. 
 
 * This Wikipedia article explains the [structure of the nucleoid](https://en.wikipedia.org/wiki/Nucleoid) and chromosomes in a prokaryotic cell and will be helpful in understanding the organization of DNA prior to replication. 
