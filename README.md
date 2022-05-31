@@ -5,7 +5,7 @@ In this project we are attempting to create a molecularly accurate simulation of
 # DNA Replication
 First things first, it is crucial that we have a basic understanding of what current science knows about the replication and division process. Check out the following resources for some basic information. 
 
-* This secion from a Biology Textbook on [Prokaryotic DNA Replication](https://openstax.org/books/biology/pages/14-4-dna-replication-in-prokaryotes)
+* This section from a Biology Textbook on [Prokaryotic DNA Replication](https://openstax.org/books/biology/pages/14-4-dna-replication-in-prokaryotes)
 * These two videos show incredible and fascinating simulations that have already been created for DNA replication and other processes in the cell. [Drew Barry Ted Talk](https://www.youtube.com/watch?v=WFCvkkDSfIU) and [Animations Video](https://www.youtube.com/watch?v=7Hk9jct2ozY).
 
 # Supercoiling and Topoisomerase
