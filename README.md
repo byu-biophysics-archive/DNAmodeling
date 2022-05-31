@@ -11,6 +11,7 @@ First things first, it is crucial that we have a basic understanding of what cur
 # Supercoiling and Topoisomerase
 DNA utilizes supercoiling to pack the immense length of its strands into a microscopic space, and the Topoisomerase lessens the strain as the DNA replicates.
 
+* This video explains the idea of [DNA supercoiling](https://www.youtube.com/watch?v=5hwaDamU-jo)
 * This video has a great explanation of the [Topoisomerase Enzyme](https://www.youtube.com/watch?v=k4fbPUGKurI) which is very important in our simulation of DNA Separation
 
 # DNA Structure
