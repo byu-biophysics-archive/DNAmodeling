@@ -7,6 +7,8 @@ These academic articles are very relevant base information to understand as we p
 
 * This paper expounds upon the newly discovered complexitiy within [prokaryotic DNA formations](https://onlinelibrary.wiley.com/doi/10.1002/jcb.20519)
 * This paper describes recent developments in the understanding of internal nucleoid structure as well as the [dynamics of sister chromosome segregation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4359759/)
+* This paper goes more in depth on the [spatial order](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5870143/) required to maintain functionality of DNA repication
+* These papers explain how bacterial structure can vary based on [growth/replication conditions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3524407/) in the [growth phase](https://link.springer.com/article/10.1007/s11427-015-4898-0)
 
 ## DNA Replication
 First things first, it is crucial that we have a basic understanding of what current science knows about the replication and division process. Check out the following resources for some basic information. 
