@@ -7,3 +7,5 @@
 * [Topoisomerases](https://www.youtube.com/watch?v=k4fbPUGKurI)
 
 * [Prokaryotic Cell: Nucleoid](https://www.youtube.com/watch?v=0hlMHSoQQNA)
+
+* [Cell Structure-Bacterial Chromosome Compaction](https://www.youtube.com/watch?v=30B0wGAID4o)
