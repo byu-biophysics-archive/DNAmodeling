@@ -25,5 +25,6 @@ DNA utilizes supercoiling to pack the immense length of its strands into a micro
 ## DNA Structure
 The nucleoid structure employed by bacteria is suprisingly complex, and uses multiple layers as well as differening topological regions to organize the chromosome. 
 
+* This video is simple yet descriptive in showing the way the [nucleoid](https://www.youtube.com/watch?v=30B0wGAID4o) is compacted
 * This Wikipedia article explains the [structure of the nucleoid](https://en.wikipedia.org/wiki/Nucleoid) and chromosomes in a prokaryotic cell and will be helpful in understanding the organization of DNA prior to replication. 
 * Another good video on [Prokaryotic Nucleoids](https://www.youtube.com/watch?v=0hlMHSoQQNA) explains the way that DNA is organized.
