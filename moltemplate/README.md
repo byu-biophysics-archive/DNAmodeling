@@ -15,7 +15,7 @@ Moltemplate requires BASH.  In MacOS, BASH comes with Xcode (and "brew").  Linux
 
 ## 3) Git
 
-Install git  (In ubuntu linux, you would use "sudo apt-get install git"). Otherwise you can again search git install on your specific operating system and find instructions.
+Install git  (In ubuntu linux, you would use "sudo apt-get install git"). Otherwise you can again search "git install" on your specific operating system and find instructions.
 
 ## 4) LAMMPS
 
