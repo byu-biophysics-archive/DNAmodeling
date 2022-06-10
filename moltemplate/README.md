@@ -11,7 +11,7 @@ Moltemplate requires BASH.  In MacOS, BASH comes with Xcode (and "brew").  Linux
 
 ## 2) Python and Pip
 
- Install python and pip (version 3.0 or higher).  (A minor personal preference: I typically use the [anaconda distribution](https://www.anaconda.com/products/distribution) of python instead of relying on the version of python which comes bundled with the OS.  ...But either should work.) Pip is simply a package management system for python and to install it you can simply google "pip install" and your certain operating system and you should find fairly simple command line arguments to download pip once you've downloaded python.
+ Install python and pip (version 3.0 or higher).  (A minor personal preference: I typically use the [anaconda distribution](https://www.anaconda.com/products/distribution) of python instead of relying on the version of python which comes bundled with the OS.  ...But either should work.) Pip is simply a package management system for python and to install it you can simply google "pip install" with your certain operating system and you should find fairly simple command line arguments to download pip once you've downloaded python.
 
 ## 3) Git
 
