@@ -1,4 +1,4 @@
-# LAMMPS and MOLTEMPLATE
+# LAMMPS and MOLTEMPLATE Installation Instructions
 
 We will be using a software developed by Andrew Jewett at CalTech called moltemplate which modifies and runs molecular dynamics simulations through the Lammps simulation software. Follow the instructions below to install the needed software onto your own personal computer to be able to run the simulations. You can check out Andrew's own repository for Moltemplate [here](https://github.com/jewettaij/moltemplate).
 
