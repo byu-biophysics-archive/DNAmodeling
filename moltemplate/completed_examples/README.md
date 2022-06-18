@@ -1,0 +1,2 @@
+# Examples
+Each of these example directories contain completed files for each of the simulations as well as movies that were created in VMD for each of them. They are by no means the only way that each of the simulations can be visualized but give a good baseline for how VMD can be used as well as what the files could look like if you get stuck. 
