@@ -1,0 +1,29 @@
+## Init Section
+    # -- Default styles (for solo "SPCE" water) --
+
+    units        real
+    atom_style   full
+    pair_style   lj/charmm/coul/long 9.0 10.0
+    bond_style   harmonic
+    angle_style  harmonic
+    kspace_style pppm 0.0001
+    #pair_modify  mix arithmetic  # LEAVE THIS UNSPECIFIED!
+
+## Atom Definition section 
+
+read_data "system.data"
+
+## Settings section
+
+    bond_coeff   1         600.0   1.0
+    angle_coeff  1       75.0    109.47
+    pair_coeff   1 1  0.1553  3.166 
+    pair_coeff   2 2  0.0     0.0
+    group spce type  1  2
+
+## Constraints section
+
+    group spce type  1  2
+    fix fRattleSPCE spce rattle 0.0001 10 100 b 1 a 1
+
+## Run Section
