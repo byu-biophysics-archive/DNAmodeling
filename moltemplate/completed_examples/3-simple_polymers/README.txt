@@ -1,3 +1,5 @@
+##Note -- This repository doesn't contain the lammpstrajectory file that was created as it was too large
+
 
 This directory contains an example of a couarse-grained (vaguely protein-like)
 heteropolymer consisting of 14 residues, each of which has 2 atoms
