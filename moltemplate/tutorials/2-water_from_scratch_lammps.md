@@ -1,4 +1,4 @@
-# 2nd Tutorial
+# 2nd Tutorial - Lammps files from scratch
 
 In this tutorial we seek to better understand what is actually happening under the hood of the lammps software, as well as why moltemplate is so helpful in creating the lammps scripts for us. We are going to, from scratch, write the lammps input scripts that are needed to run a simple simulation. This will be similar to the first tutorial we ran, but using just 2 water molecules instead of 1000 and no ions. 
 
