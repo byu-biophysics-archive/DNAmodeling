@@ -1,4 +1,4 @@
-# 3rd Tutorial -- 2 bead heteropolymer
+# 3rd Tutorial - 2 bead heteropolymer
 
 This tutorial is another one of the examples that can be found in the moltemplate github, this time a little bit more complex than the first one. This simulation is of polymers which can simulate proteins. There are two different monomers used in the simulation, each having an "R group" of different material which are attracted to each other. You can see more about this simulation [here](https://github.com/jewettaij/moltemplate/tree/master/examples/coarse_grained/simple_examples/2bead_heteropolymer). Due to the size and computing power needed for this simulation this is a great one to use the supercomputer for. 
 
