@@ -10,3 +10,5 @@ You can run the simulation using the README_run file, however note that this sim
 
 ## 3rd Step -- Visualize
 You can use VMD in the same was as we have up to this point to create a simulation of this process. This movie will likely be longer than the others, but should nonetheless be fascinating to watch. If you can get the supercomputer to run VMD and give you back a movie that would be best. 
+
+Check out the completed example directory [here](../completed_examples/3-simple_polymers) :open_mouth:
