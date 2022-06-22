@@ -16,4 +16,4 @@ The third file, README_visualize, contains text instructions on how to enter the
 * Hitting s will enter a zoom in/out mode, hitting t will enter a move mode, and hitting r will enter a rotation mode. 
 * Afterwards you can make an mpg movie from the built in software. Instructions on how to make the movies are [here](https://www.youtube.com/watch?v=lueqjpjo3yY).
 
-Check out the completed directory for this example [here](../completed_examples/1-water_na_cl) :sunglasses:
+Check out the completed directory for this example [here](../completed_examples/1-water_na_cl)! :sunglasses:
