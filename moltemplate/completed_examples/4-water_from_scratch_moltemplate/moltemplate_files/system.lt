@@ -1,0 +1,16 @@
+import "spce.lt"
+
+# boundary conditions
+
+write_once("Data Boundary") {
+    0.0 31.0342 xlo xhi
+    0.0 31.0342 ylo yhi
+    0.0 31.0342 zlo zhi
+}
+
+# create the desired amount of molecules
+
+wat = new SPCE [2].move(0.00, 0.00, 3.10342)
+               [2].move(0.00, 3.10342, 0.01)
+               [2].move(3.10342, 0.01, 0.01)
+
