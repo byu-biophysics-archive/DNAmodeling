@@ -18,3 +18,5 @@ Lastly you will need to create a script similar to the shell script we used to r
 
 ## Step 4 -- visualize
 Follow the same steps as was outlined in the first tutorial in order to create a movie of the simulation in VMD. Congrats! You've run your first very own lammps simulation! I bet you have gained a greater appreciation for moltemplates ability to automatically create thousands of atoms and bonds! 
+
+Check out the completed directory [here](../completed_examples/2-water_from_scratch_lammps)! :grin:
