@@ -1,4 +1,4 @@
-# 2nd Tutorial
+# 2nd Tutorial - Lammps files from scratch
 
 In this tutorial we seek to better understand what is actually happening under the hood of the lammps software, as well as why moltemplate is so helpful in creating the lammps scripts for us. We are going to, from scratch, write the lammps input scripts that are needed to run a simple simulation. This will be similar to the first tutorial we ran, but using just 2 water molecules instead of 1000 and no ions. 
 
@@ -18,3 +18,5 @@ Lastly you will need to create a script similar to the shell script we used to r
 
 ## Step 4 -- visualize
 Follow the same steps as was outlined in the first tutorial in order to create a movie of the simulation in VMD. Congrats! You've run your first very own lammps simulation! I bet you have gained a greater appreciation for moltemplates ability to automatically create thousands of atoms and bonds! 
+
+Check out the completed directory [here](../completed_examples/2-water_from_scratch_lammps)! :grin:

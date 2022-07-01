@@ -1,0 +1,31 @@
+NaIon {
+
+# AtomID MolID AtomType charge X Y Z
+
+    write("Data Atoms"){
+        $atom:Na $mol @atom:Na 1.0 0.00000 0.00000 0.00000
+    }
+
+    write_once("Data Masses") {
+        @atom:Na 22.9898
+    }
+
+    write_once("In Settings") {
+        pair_coeff @atom:Na @atom:Na 0.3526418 2.1595384928
+    }
+}
+
+ClIon {
+    
+    write("Data Atoms") {
+        $atom:Cl $mol @atom:Cl -1.0 0.00000 0.00000 0.00000
+    }
+
+    write_once("Data Masses") {
+        @atom:Cl 35.453
+    }
+
+    write_once("In Settings") {
+        pair_coeff @atom:Cl @atom:Cl 0.0127850 4.8304528498
+    }
+}

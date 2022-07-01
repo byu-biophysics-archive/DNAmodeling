@@ -1,0 +1,1 @@
+lmp_mpi -i run.in.npt
