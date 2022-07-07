@@ -3,7 +3,7 @@
 In this project we are attempting to create a molecularly accurate simulation of the process of DNA replication and separation during the process of cell division in prokaryotic bacteria cells. We are using a software devloped at Caltech known as moltemplate to run the simulations. Understanding the foundational principles that govern the replication process is at the forefront of cutting edge Biophysics research and we are seeking to make BYU one of the foremost universities in the subject. Applications of these simulations are theoretically limitless, being able to adapt medicines and treatments to target the replication of DNA in harmful bacteria in our bodies could be a solution to bacterial infections as antibiotic resistance is on the rise. Many more applications are likely to be found as we begin to develop the world's understanding of the field.
 
 ## Supercomputer
-If you need help getting set up on the supercomputer, you can apply for an account [here](https://rc.byu.edu) and see instructions on how to set up remote access through VS Code [here]().
+If you need help getting set up on the supercomputer, you can apply for an account [here](https://rc.byu.edu) and see instructions on how to set up remote access through VS Code [here](/supercomputer/VScode_setup.md).
 
 ## Academic Papers
 These academic articles are very relevant base information to understand as we proceed with our tasks. 
