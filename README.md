@@ -2,6 +2,9 @@
 # DNA Modeling Project
 In this project we are attempting to create a molecularly accurate simulation of the process of DNA replication and separation during the process of cell division in prokaryotic bacteria cells. We are using a software devloped at Caltech known as moltemplate to run the simulations. Understanding the foundational principles that govern the replication process is at the forefront of cutting edge Biophysics research and we are seeking to make BYU one of the foremost universities in the subject. Applications of these simulations are theoretically limitless, being able to adapt medicines and treatments to target the replication of DNA in harmful bacteria in our bodies could be a solution to bacterial infections as antibiotic resistance is on the rise. Many more applications are likely to be found as we begin to develop the world's understanding of the field.
 
+## Supercomputer
+If you need help getting set up on the supercomputer, you can apply for an account [here](https://rc.byu.edu) and see instructions on how to set up remote access through VS Code [here](/supercomputer/VScode_setup.md).
+
 ## Academic Papers
 These academic articles are very relevant base information to understand as we proceed with our tasks. 
 
@@ -9,6 +12,7 @@ These academic articles are very relevant base information to understand as we p
 * This paper describes recent developments in the understanding of internal nucleoid structure as well as the [dynamics of sister chromosome segregation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4359759/)
 * This paper goes more in depth on the [spatial order](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5870143/) required to maintain functionality of DNA repication
 * These papers explain how bacterial structure can vary based on [growth/replication conditions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3524407/) in the [growth phase](https://link.springer.com/article/10.1007/s11427-015-4898-0)
+* This paper talks about the ever increasing use of [math in Biology](/resources/AbuseMathBiology.pdf) as well as the abuses and things to be wary of when using mathematical models to simulate biological functions. Very important to remember when doing simulations such as the ones we are doing. 
 
 ## DNA Replication
 First things first, it is crucial that we have a basic understanding of what current science knows about the replication and division process. Check out the following resources for some basic information. 
