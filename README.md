@@ -36,6 +36,8 @@ The nucleoid structure employed by bacteria is suprisingly complex, and uses mul
 
 ## Compiling LAMMPS with extra packages for DNA modeling
 ```shell
+git clone https://github.com/lammps/lammps.git  
+cd lammps/src
 wget https://raw.githubusercontent.com/jewettaij/lammps/fix_twist/src/USER-MISC/fix_twist.cpp
 wget https://raw.githubusercontent.com/jewettaij/lammps/fix_twist/src/USER-MISC/fix_twist.h
 make yes-manybody
