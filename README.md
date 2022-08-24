@@ -32,3 +32,18 @@ The nucleoid structure employed by bacteria is suprisingly complex, and uses mul
 * This video is simple yet descriptive in showing the way the [nucleoid](https://www.youtube.com/watch?v=30B0wGAID4o) is compacted
 * This Wikipedia article explains the [structure of the nucleoid](https://en.wikipedia.org/wiki/Nucleoid) and chromosomes in a prokaryotic cell and will be helpful in understanding the organization of DNA prior to replication. 
 * Another good video on [Prokaryotic Nucleoids](https://www.youtube.com/watch?v=0hlMHSoQQNA) explains the way that DNA is organized.
+
+
+## Compiling LAMMPS with extra packages for DNA modeling
+```shell
+git clone https://github.com/lammps/lammps.git  
+cd lammps/src
+wget https://raw.githubusercontent.com/jewettaij/lammps/fix_twist/src/USER-MISC/fix_twist.cpp
+wget https://raw.githubusercontent.com/jewettaij/lammps/fix_twist/src/USER-MISC/fix_twist.h
+make yes-manybody
+make yes-extra-pair
+make yes-extra-molecule
+make yes-molecule
+module load intel-compilers/2019 intel-mpi/2019 libfabric/1.8
+make -j mpi
+```
