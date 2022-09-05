@@ -1,6 +1,8 @@
 # VMD Basics
 
-## Basic Tutorials 
+Check out the tutorials directory for example ways to run VMD and produce a movie through scripts on the supercomputer. 
+
+## Basics 
 * Check out [this great seminar](https://www.youtube.com/watch?v=Jce5JN2fLuo) that goes through a lot of the very basics regarding loading molecules and trajectories into the VMD interface, making movies from the built in Movie Maker extension, as well as running VMD through command-line scripts. 
 
 ## Scripting

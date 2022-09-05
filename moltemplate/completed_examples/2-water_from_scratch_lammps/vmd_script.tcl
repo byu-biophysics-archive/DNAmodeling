@@ -7,6 +7,7 @@ mol addfile traj_npt.lammpstrj 0
 pbc wrap -compound res -all
 pbc box
 
+mol delrep 0 top
 mol selection all
 mol rep CPK
 mol material EdgyShiny
