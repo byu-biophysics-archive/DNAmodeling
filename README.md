@@ -1,6 +1,8 @@
 
 # DNA Modeling Project
-In this project we are attempting to create a molecularly accurate simulation of the process of DNA replication and separation during the process of cell division in prokaryotic bacteria cells. We are using a software devloped at Caltech known as moltemplate to run the simulations. Understanding the foundational principles that govern the replication process is at the forefront of cutting edge Biophysics research and we are seeking to make BYU one of the foremost universities in the subject. Applications of these simulations are theoretically limitless, being able to adapt medicines and treatments to target the replication of DNA in harmful bacteria in our bodies could be a solution to bacterial infections as antibiotic resistance is on the rise. Many more applications are likely to be found as we begin to develop the world's understanding of the field.
+In this project we are attempting to create a molecularly accurate simulation of the process of DNA replication and separation during the process of cell division in prokaryotic bacteria cells. We are using a software devloped at Caltech known as moltemplate to initialize the simulations, and LAMMPS to run them. Understanding the foundational principles that govern the replication process is at the forefront of cutting edge Biophysics research and we are seeking to make BYU one of the foremost universities in the subject. Applications of these simulations are theoretically limitless, being able to adapt medicines and treatments to target the replication of DNA in harmful bacteria in our bodies could be a solution to bacterial infections as antibiotic resistance is on the rise. Many more applications are likely to be found as we begin to develop the world's understanding of the field.
+
+Our current focus is understanding and creating accurate visualizations of the nucleoid associated proteins (NAPS) that assist in the compaction, replication, and transcription of DNA. See the 4CS folder for the work we completed and presented on at the 4 corners APS meeting 2022. 
 
 ## Moltemplate
 Moltemplate is a molecular dynamics software that creates input files that Lammps uses to run its simulations. Check out the Moltemplate directory for more info and for some tutorials to get familiar with running simulations with it. 
@@ -14,6 +16,7 @@ If you need help getting set up on the supercomputer, you can apply for an accou
 ## Academic Papers
 These academic articles are very relevant base information to understand as we proceed with our tasks. 
 
+* This is a great paper which goes in depth into each of the [nucleoid associated proteins](https://www.nature.com/articles/s41576-019-0185-4) that take part in DNA compaction and organization
 * This paper expounds upon the newly discovered complexitiy within [prokaryotic DNA formations](https://onlinelibrary.wiley.com/doi/10.1002/jcb.20519)
 * This paper describes recent developments in the understanding of internal nucleoid structure as well as the [dynamics of sister chromosome segregation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4359759/)
 * This paper goes more in depth on the [spatial order](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5870143/) required to maintain functionality of DNA repication
