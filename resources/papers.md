@@ -1,3 +1,5 @@
+* [Chromosome organization in bacteria: mechanistic insights into genome structure and function](https://www.nature.com/articles/s41576-019-0185-4)
+
 * [The Bacterial Nucleoid: Nature, Dynamics and Sister Segregation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4359759/)
 
 * [The bacterial nucleoid: A highly organized and dynamic structure](https://onlinelibrary.wiley.com/doi/10.1002/jcb.20519)
